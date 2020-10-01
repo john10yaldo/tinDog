@@ -153,7 +153,14 @@ h2{
     text-align: center;
   }
 
+  .price-colm{
+    padding: 1%;
+  }
 
+  #pricing{
+    padding: 20px;
+  }
+  
 }
 
 
